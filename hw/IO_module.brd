@@ -123,16 +123,14 @@
 <wire x1="6.55" y1="8" x2="6.55" y2="8.8" width="0.2" layer="41"/>
 <wire x1="6.55" y1="8.8" x2="7.45" y2="8.8" width="0.2" layer="41"/>
 <text x="4" y="6" size="1.5" layer="200" rot="MR90">IO module
-v1.0 (2014/02)</text>
+v1.0 (2015/02)</text>
 <text x="21.2" y="30.5" size="1" layer="48" font="vector" rot="R90" align="top-center">SPI</text>
 <text x="21.2" y="42.5" size="1" layer="48" font="vector" rot="R90" align="top-center">ADC</text>
 <text x="21.2" y="34.5" size="1" layer="48" font="vector" rot="R90" align="top-center">D2</text>
 <text x="21.2" y="38.5" size="1" layer="48" font="vector" rot="R90" align="top-center">D1</text>
 <text x="3.8" y="30.5" size="1" layer="48" font="vector" rot="SR270" align="top-center">I2C</text>
-<text x="3.8" y="38.5" size="1" layer="48" font="vector" rot="SR270" align="top-center">UART
-1</text>
-<text x="3.8" y="34.5" size="1" layer="48" font="vector" rot="SR270" align="top-center">UART
-2</text>
+<text x="3.8" y="38.5" size="1" layer="48" font="vector" rot="SR270" align="top-center">U1</text>
+<text x="3.8" y="34.5" size="1" layer="48" font="vector" rot="SR270" align="top-center">U2</text>
 <text x="3.3" y="42.5" size="1" layer="48" font="vector" rot="SR270" align="center">DAC</text>
 </plain>
 <libraries>
